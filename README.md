@@ -1,4 +1,5 @@
 # Hero-Man
+Hi 👋, I'm Obed Blido
 # 🎯 My Projects
 
 Welcome to my collection of front-end projects built using **React**, **JavaScript**, and modern web development tools. Each project here reflects my learning journey, skill development, and creative problem-solving.
