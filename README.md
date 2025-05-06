@@ -1,4 +1,4 @@
-# Hero-Man
+# Me
 Hi 👋, I'm Obed Blido
 # 🎯 My Projects
 
@@ -30,12 +30,3 @@ Welcome to my collection of front-end projects built using **React**, **JavaScri
 
 ---
 
-## 🚀 Getting Started
-
-To clone and run a project locally:
-
-```bash
-git clone https://github.com/mystero-bot/My-Projects.git
-cd My-Projects
-npm install
-npm run dev
